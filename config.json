@@ -1,0 +1,33 @@
+{
+    "token": "BOT_TOKEN", 
+
+    "channels": {
+        "review": "REVIEW_CHANNEL_ID",
+        "suggestion": "SUGGESTION_CHANNEL_ID",
+        "welcome_leave": "WELKOM_LEAE_CHANNEL_ID"
+    },
+
+    "serverStats": {
+        "boost": "BOOST_ROLE_ID",
+        "boostchannel": "BOOST_CHANNEL_ID",
+        "members": "MEMBER_ROLE_ID"
+    },
+
+    "tickets": {
+        "category": "TICKET_CAT_ID",
+        "support": "SUPPORT_ROLE_ID",
+        "logs": "LOGS_CHANNEL_ID"
+    },
+    "games": { 
+        "counting": "COUNTING_CHANNEL_ID"
+    },
+
+    "embeds": {
+        "Color": "#3e7ee7"
+    },
+
+    "titles": {
+        "succes": "✅・succes",
+        "error": "❌・error"
+    }
+}
