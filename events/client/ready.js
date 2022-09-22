@@ -7,7 +7,7 @@ client.on("ready", async (client) => {
     console.log(`\u001b[0m`)
 
 
-    let statuttext = [`Test`, `Test`, `Test`];
+    let statuttext = [`Developt by unDEVract`, `2`, `3`];
     const randomText = statuttext[Math.floor(Math.random() * statuttext.length)];
 
     client.user.setPresence({
